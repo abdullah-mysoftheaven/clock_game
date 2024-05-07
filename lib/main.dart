@@ -9,6 +9,12 @@ import 'score/score.dart';
 import 'settings/settings.dart';
 import 'storage/storage_shared_preferences.dart';
 
+
+
+
+
+
+
 void main() {
   runApp(
     RepositoryProvider(
